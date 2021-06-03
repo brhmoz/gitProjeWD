@@ -9,5 +9,6 @@ public class BirinciGun {
 		System.out.println("10:33 - Ikinci gun...");
 		System.out.println("10:45 - Ikinci gun...");
 		System.out.println("11:20 - local'den selamlar...");
+		
 	}
 }
