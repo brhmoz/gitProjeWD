@@ -10,7 +10,7 @@ public class BirinciGun {
 		System.out.println("10:45 - Ikinci gun...");
 		System.out.println("11:20 - local'den selamlar...");
 		System.out.println("11:55 - github.com");
-		System.out.println("Ben buradan conflict beklemiyorum...");
+		System.out.println("12:05 - Bakalim conflict olacak mi?");
 		
 	}
 }
